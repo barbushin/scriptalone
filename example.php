@@ -39,8 +39,8 @@
  * 6. All script restarts takes maximum 5 minutes (because of CRON try to run
  *    next script instance every 5 minute).
  * 
- * @see http://code.google.com/p/dabase
- * @author Barbushin Sergey http://www.linkedin.com/in/barbushin
+ * @see https://github.com/barbushin/dabase
+ * @author Barbushin Sergey http://linkedin.com/in/barbushin
  * 
  */
 

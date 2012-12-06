@@ -3,8 +3,8 @@
 /**
  * 
  * @desc Class for limiting running only one instance of some script
- * @see http://code.google.com/p/scriptalone
- * @author Barbushin Sergey http://www.linkedin.com/in/barbushin
+ * @see https://github.com/barbushin/scriptalone
+ * @author Barbushin Sergey http://linkedin.com/in/barbushin
  * 
  */
 class ScriptAlone {
